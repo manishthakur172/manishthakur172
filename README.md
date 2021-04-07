@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manishthakur172
 - 👀 I’m interested in Coding
-- 🌱 I’m currently Blockchain
+- 🌱 I’m currently studying Blockchain
 - 💞️ I’m looking to collaborate on Enthusiastic people
 - 📫 How to reach me email on manishthakur172@gmail.com
 
